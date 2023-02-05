@@ -1,5 +1,7 @@
 lab 4 
 
+the project for comparing two diffrenet dataset using Gaussian bayesian
+
 
 ![lab4](https://user-images.githubusercontent.com/117605778/216850483-4a8a00fd-7d1c-4691-a8b8-4df18e8255ed.png)
 
