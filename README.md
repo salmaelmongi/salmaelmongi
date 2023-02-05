@@ -49,6 +49,7 @@ after overcome the missclassification (binclass)
 
 
 
+![3](https://user-images.githubusercontent.com/117605778/216851255-d36864aa-e98d-4d75-a69a-b7b7e4664476.png)
 
 
 
