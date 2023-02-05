@@ -1,4 +1,11 @@
 lab 4 
+
+
+![lab4](https://user-images.githubusercontent.com/117605778/216850483-4a8a00fd-7d1c-4691-a8b8-4df18e8255ed.png)
+
+
+
+
 importing libraries 
 
 ![libraries](https://user-images.githubusercontent.com/117605778/216849676-acf6e6d5-2303-46ae-a564-50a8634700fd.png)
@@ -19,3 +26,4 @@ dividing the data into positive and negative classes
 
 
 ![train and test](https://user-images.githubusercontent.com/117605778/216849868-f972cea8-910e-4065-88ba-48ca0b0fede9.png)
+
