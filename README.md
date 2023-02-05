@@ -44,7 +44,7 @@ a trial to overcome the missclassification  (binclass)
 
 
 
-after overcome the missclassification (binclass)
+after overcome the missclassification  (binclass)
 
 
 
@@ -54,15 +54,22 @@ after overcome the missclassification (binclass)
 
 
 
+the distribution of classes (binclassv2) showing misscalssification
+
+![4](https://user-images.githubusercontent.com/117605778/216851339-891f1e8e-14a3-49c4-a05d-020e4e1407c7.png)
 
 
 
+a trial to overcome the missclassification  (binclassv2)
+
+
+![5](https://user-images.githubusercontent.com/117605778/216851344-65bd6739-7d2a-4167-8225-c6c3256cb983.png)
 
 
 
+after overcome the missclassification  (binclassv2)
 
 
 
-
-
+![6](https://user-images.githubusercontent.com/117605778/216851352-1fa20a97-4361-4550-bbc4-81875fb46851.png)
 
