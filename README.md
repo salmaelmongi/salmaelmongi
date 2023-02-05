@@ -28,7 +28,7 @@ dividing the data into positive and negative classes
 ![train and test](https://user-images.githubusercontent.com/117605778/216849868-f972cea8-910e-4065-88ba-48ca0b0fede9.png)
 
 
-the distribution of classes
+the distribution of classes (binclass) showing misscalssification
 
 
 
@@ -36,7 +36,11 @@ the distribution of classes
 
 
 
+a trial to overcome the missclassification
 
+
+
+![2](https://user-images.githubusercontent.com/117605778/216851154-4161d1f7-9cf3-40c3-ba2d-165546130fd2.png)
 
 
 
