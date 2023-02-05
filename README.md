@@ -36,11 +36,15 @@ the distribution of classes (binclass) showing misscalssification
 
 
 
-a trial to overcome the missclassification
+a trial to overcome the missclassification  (binclass)
 
 
 
 ![2](https://user-images.githubusercontent.com/117605778/216851154-4161d1f7-9cf3-40c3-ba2d-165546130fd2.png)
+
+
+
+after overcome the missclassification (binclass)
 
 
 
