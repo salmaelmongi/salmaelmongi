@@ -28,3 +28,32 @@ dividing the data into positive and negative classes
 ![train and test](https://user-images.githubusercontent.com/117605778/216849868-f972cea8-910e-4065-88ba-48ca0b0fede9.png)
 
 
+the distribution of classes
+
+
+
+![1](https://user-images.githubusercontent.com/117605778/216851018-7c0caf51-6822-4a2e-9753-3940886ebc35.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
